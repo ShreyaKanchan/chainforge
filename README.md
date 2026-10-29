@@ -1,5 +1,9 @@
 # ChainForge
 
+> A compact proof-of-work blockchain built from first principles for learning how blocks, hashes, transactions, and validation fit together.
+
+![ChainForge](assets/logo.svg)
+
 A minimal proof-of-work blockchain implemented from scratch for learning.
 
 ## Run
